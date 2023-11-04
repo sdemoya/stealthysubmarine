@@ -33,8 +33,10 @@
 
 <div style="text-align: center; padding-left: 20px;">
 
-![Alt text](image-8.png)
+    ![Alt text](image-8.png)
 
-![isc2-code-of-ethics](image-3.png)
+</div>
+
+    ![isc2-code-of-ethics](image-3.png)
 
 </div>
