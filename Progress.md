@@ -182,5 +182,7 @@
 -->
 
 2023-11-04 (SAT) 
-
+    CISSP: Set Up Whiley Acct & other Pre-Content Prep
+    THM: Pre Security: Linux Fundamentals Part 1
     THM: Introduction to Offensive Security: OS Security
+    Set up git/github repo - very rusty
