@@ -181,10 +181,15 @@
 
 ### 2023-11-04 (SAT) 
 
-    CISSP: Set Up Whiley Acct & other Pre-Content Prep
+    CISSP:  Set Up Whiley Acct & other Pre-Content Prep
+            Preprep with several videos
+            Initial Quiz: 50qs - 44%
 
-    THM: Pre Security: Linux Fundamentals Part 1
 
-    THM: Introduction to Offensive Security: OS Security
+    THM:    Pre Security: Linux Fundamentals Part 1
+            Introduction to Offensive Security: OS Security
+            Introductory Researching (https://tryhackme.com/path/outline/beginner)
        
     Set up git/github repo - very rusty
+
+    
