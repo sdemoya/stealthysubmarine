@@ -9,7 +9,7 @@ motherboard contains many components namely
     [Alt text](image.png)
     [Alt text](image-1.png)
     [Alt text](image-2.png)
-/
+
     three weaknesses targeted by malicious users:
         Authentication and Weak Passwords
         Weak File Permissions
