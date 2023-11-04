@@ -5,9 +5,9 @@
     Use Chunking & Mnemonic Devices & repetition
     Quiz (per domain) > Targeted Reading (of weak areas) > Review PPT > Flashcards
         Memory Hacks
-            ![time-to-memorize](image-4.png)
-            ![Repetition](image-5.png)
-            ![CISSP-study-stratt](image-6.png)
+![time-to-memorize](image-4.png)
+![Repetition](image-5.png)
+![CISSP-study-stratt](image-6.png)
 
 
 
@@ -31,4 +31,4 @@
 
 ![domain 1](image-7.png)
 
-        ![isc2-code-of-ethics](image-3.png)
+![isc2-code-of-ethics](image-3.png)
