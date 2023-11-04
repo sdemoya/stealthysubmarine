@@ -3,14 +3,23 @@
 # Linux
 ## General CMDS
         whoami
-        ssh USERNAME@10.10.182.96
+        ssh USERNAME@IP
+
         ls	listing
+
         cd	change directory
+
         cat	FILENAME (concatenate)
+
         pwd	print working directory
+
         find -name passwords.txt
+
         history # (# = number of cmds run)
+
         grep "item-to-search-for" filename.txt (search the contents of files for specific values)
+
+        man (gives you access to the manual pages for most tools directly inside your terminal)
 ## OPERATORS
 
 
