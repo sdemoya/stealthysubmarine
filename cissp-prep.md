@@ -31,4 +31,10 @@
 
 ![domain 1](image-7.png)
 
+<div style="text-align: center; padding-left: 20px;">
+
+![Alt text](image-8.png)
+
 ![isc2-code-of-ethics](image-3.png)
+
+</div>
