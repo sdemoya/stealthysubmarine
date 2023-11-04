@@ -1,16 +1,23 @@
 # Progress Tracking
 
-2023-11-04 TEST
-Basic OS Sec
-motherboard contains many components namely
- central processing unit (CPU)
- memory chips (RAM) 
- the motherboard is usually connected to a storage device (HDD or SSD)
-    [Alt text](image.png)
-    [Alt text](image-1.png)
-    [Alt text](image-2.png)
 
-    three weaknesses targeted by malicious users:
-        Authentication and Weak Passwords
-        Weak File Permissions
-        Malicious Programs
+
+
+
+2023-11-20
+2023-11-19
+2023-11-18
+2023-11-17
+2023-11-16
+2023-11-15
+2023-11-14
+2023-11-13
+2023-11-12
+2023-11-11
+2023-11-10
+2023-11-09
+2023-11-08
+2023-11-07
+2023-11-06
+2023-11-05
+2023-11-04 THM: Introduction to Offensive Security: OS Security, 
