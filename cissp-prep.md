@@ -32,4 +32,3 @@
 ![domain 1](image-7.png)
 
 ![isc2-code-of-ethics](image-3.png)
-![Alt text](image-7.png)
