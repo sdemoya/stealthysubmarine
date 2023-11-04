@@ -1,6 +1,6 @@
-### CISSP Prep
+## CISSP Prep
 
-#Study Tips
+# Study Tips
     Understand BEFORE you memorize
         Memory Hacks
         ![time-to-memorize](image-4.png)
