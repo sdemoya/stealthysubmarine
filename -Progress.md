@@ -173,17 +173,19 @@
 
 ### 2023-11-07 (TUE)
 
-### 2023-11-06 (MON)
+### 2023-11-06 (MON) -->
 
 ### 2023-11-05 (SUN)
+    CISSP:  Memoriy Tips https://www.youtube.com/watch?v=LGqZbiitiDw (comments are helpful too)
+        Part of "think like a manager video.
 
--->
 
 ### 2023-11-04 (SAT) 
 
     CISSP:  Set Up Whiley Acct & other Pre-Content Prep
-            Preprep with several videos
+            Preprep with several videos on strategy, etc
             Initial Quiz: 50qs - 44%
+            Domain 2 Video
 
 
     THM:    Pre Security: Linux Fundamentals Part 1
