@@ -171,27 +171,29 @@
 
 ### 2023-11-08 (WED)
 
-### 2023-11-07 (TUE)
+### 2023-11-07 (TUE) -->
 
-### 2023-11-06 (MON) -->
+### 2023-11-06 (MON)
+        CISSP:  Domain 1
+
 
 ### 2023-11-05 (SUN)
-    CISSP:  Memoriy Tips https://www.youtube.com/watch?v=LGqZbiitiDw (comments are helpful too)
+        CISSP:  Memoriy Tips https://www.youtube.com/watch?v=LGqZbiitiDw (comments are helpful too)
         Part of "think like a manager video.
 
 
 ### 2023-11-04 (SAT) 
 
-    CISSP:  Set Up Whiley Acct & other Pre-Content Prep
-            Preprep with several videos on strategy, etc
-            Initial Quiz: 50qs - 44%
-            Domain 2 Video
+        CISSP:  Set Up Whiley Acct & other Pre-Content Prep
+                Preprep with several videos on strategy, etc
+                Initial Quiz: 50qs - 44%
+                 Domain 2 Video
 
 
-    THM:    Pre Security: Linux Fundamentals Part 1
-            Introduction to Offensive Security: OS Security
-            Introductory Researching (https://tryhackme.com/path/outline/beginner)
+        THM:    Pre Security: Linux Fundamentals Part 1
+                Introduction to Offensive Security: OS Security
+                Introductory Researching (https://tryhackme.com/path/outline/beginner)
        
-    Set up git/github repo - very rusty
+        Set up git/github repo - very rusty
 
     
