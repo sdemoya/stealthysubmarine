@@ -174,7 +174,9 @@
 ### 2023-11-07 (TUE) -->
 
 ### 2023-11-06 (MON)
-        CISSP:  Domain 1
+        CISSP:  
+                Finished Think Like a Manager (https://www.youtube.com/watch?v=vfC9OLsCqgk)
+                Started Domain 1 
 
 
 ### 2023-11-05 (SUN)
