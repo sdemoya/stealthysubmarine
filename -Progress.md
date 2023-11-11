@@ -195,22 +195,28 @@
         CISSP:
 
 ### 2023-11-12 (SUN)
-        CISSP:
+        CISSP: 
+        -->
+
 
 ### 2023-11-11 (SAT)
-        CISSP:
+        CISSP:  Reviewed content from yesterday.
+                Finished 4.1.1 (Destination CISSP)
+                Reviewed OSI model 
+        
+        FUN:    The Cuckoo's Egg Ch. 1-2
 
 ### 2023-11-10 (FRI)
-        CISSP:
+        CISSP: Started Domain 4 (Destination CISSP)
 
 ### 2023-11-09 (THU)
-        CISSP:
+        :/
 
 ### 2023-11-08 (WED) 
-        CISSP: -->
+        :/
 
 ### 2023-11-07 (TUE) 
-        CISSP:
+        :/
 
 
 
