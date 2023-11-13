@@ -150,22 +150,22 @@
         CISSP:
 
 ### 2023-11-27 (MON)
-        Planned Vacation
+        Planned Break
 
 ### 2023-11-26 (SUN)
-        Planned Vacation
+        Planned Break
 
 ### 2023-11-25 (SAT)
-        Planned Vacation
+        Planned Break
 
 ### 2023-11-24 (FRI)
-        Planned Vacation
+        Planned Break
 
 ### 2023-11-23 (THU)
-        Planned Vacation
+        Planned Break
 
 ### 2023-11-22 (WED)
-        Planned Vacation
+        Planned Break
 
 ### 2023-11-21 (TUE)
         CISSP:
@@ -192,12 +192,10 @@
         CISSP:
 
 ### 2023-11-13 (MON)
-        CISSP:
+        CISSP: -->
 
 ### 2023-11-12 (SUN)
-        CISSP: 
-        -->
-
+        FUN:    The Cuckoo's Egg Ch. 3
 
 ### 2023-11-11 (SAT)
         CISSP:  Reviewed content from yesterday.
@@ -214,8 +212,6 @@
 ### 2023-11-08 (WED) :o
 
 ### 2023-11-07 (TUE) :/
-
-
 
 ### 2023-11-06 (MON)
         CISSP:  Finished Think Like a Manager 
