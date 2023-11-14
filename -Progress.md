@@ -168,44 +168,43 @@
         Planned Break
 
 ### 2023-11-21 (TUE)
-        CISSP:
+        CISSP: Destination CISSP - 
 
 ### 2023-11-20 (MON)
-        CISSP:
+        CISSP: Destination CISSP - 
 
 ### 2023-11-19 (SUN)
-        CISSP:
+        CISSP: Destination CISSP - 
 
 ### 2023-11-18 (SAT)
-        CISSP:
+        CISSP: Destination CISSP - 
 
 ### 2023-11-17 (FRI)
-        CISSP:
+        CISSP: Destination CISSP - 
 
 ### 2023-11-16 (THU)
-        CISSP:
+        CISSP: Destination CISSP - 
 
 ### 2023-11-15 (WED)
-        CISSP:
+        CISSP: Destination CISSP - 
 
 ### 2023-11-14 (TUE)
-        CISSP:
-
+        CISSP: Destination CISSP - 
+-->
 ### 2023-11-13 (MON)
-        CISSP: -->
+        CISSP: Destination CISSP - 4.1.3 
 
 ### 2023-11-12 (SUN)
         FUN:    The Cuckoo's Egg Ch. 3
 
 ### 2023-11-11 (SAT)
-        CISSP:  Reviewed content from yesterday.
-                Finished 4.1.1 (Destination CISSP)
-                Reviewed OSI model 
-        
+        CISSP: Destination CISSP - 4.1.2
+               Reviewed OSI model 
+
         FUN:    The Cuckoo's Egg Ch. 1-2
 
 ### 2023-11-10 (FRI)
-        CISSP: Started Domain 4 (Destination CISSP)
+        CISSP: Destination CISSP - started with intro and domain 4
 
 ### 2023-11-09 (THU) >.<
 
