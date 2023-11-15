@@ -186,11 +186,11 @@
         CISSP: Destination CISSP - 
 
 ### 2023-11-15 (WED)
-        CISSP: Destination CISSP - 
+        CISSP: Destination CISSP - 1.3.2
 -->
 
 ### 2023-11-14 (TUE)
-        CISSP: Destination CISSP - 4.1.4, 4.1.5, 1.1.1
+        CISSP: Destination CISSP - 4.1.4, 4.1.5, 1.1.1, 1.2.1, 1.2.2, 1.3.1
 
 ### 2023-11-13 (MON)
         CISSP: Destination CISSP - 4.1.3 
