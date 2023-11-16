@@ -174,38 +174,43 @@
         CISSP: Destination CISSP - 
 
 ### 2023-11-19 (SUN)
-        CISSP: Destination CISSP - 
+        CISSP:  Destination CISSP - 
 
 ### 2023-11-18 (SAT)
-        CISSP: Destination CISSP - 
+        CISSP:  Destination CISSP - 
 
 ### 2023-11-17 (FRI)
-        CISSP: Destination CISSP - 
+        CISSP:  Destination CISSP - 
 
 ### 2023-11-16 (THU)
-        CISSP: Destination CISSP - 
+        CISSP:  Destination CISSP - 
+                https://www.youtube.com/watch?v=_nyZhYnCNLA watched -> 00:39:00
 
-### 2023-11-15 (WED)
-        CISSP: Destination CISSP - 1.3.2
 -->
 
+### 2023-11-15 (WED)
+        CISSP:  Destination CISSP - 1.3.2
+
+        THM:    Introductory Research 
+
+
 ### 2023-11-14 (TUE)
-        CISSP: Destination CISSP - 4.1.4, 4.1.5, 1.1.1, 1.2.1, 1.2.2, 1.3.1
+        CISSP:  Destination CISSP - 4.1.4, 4.1.5, 1.1.1, 1.2.1, 1.2.2, 1.3.1
 
 ### 2023-11-13 (MON)
-        CISSP: Destination CISSP - 4.1.3 
+        CISSP:  Destination CISSP - 4.1.3 
 
 ### 2023-11-12 (SUN)
         FUN:    The Cuckoo's Egg Ch. 3
 
 ### 2023-11-11 (SAT)
-        CISSP: Destination CISSP - 4.1.2
-               Reviewed OSI model 
+        CISSP:  Destination CISSP - 4.1.2
+                Reviewed OSI model 
 
         FUN:    The Cuckoo's Egg Ch. 1-2
 
 ### 2023-11-10 (FRI)
-        CISSP: Destination CISSP - started with intro and domain 4
+        CISSP:  Destination CISSP - started with intro and domain 4
 
 ### 2023-11-09 (THU) >.<
 
