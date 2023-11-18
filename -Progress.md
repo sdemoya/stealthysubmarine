@@ -149,23 +149,17 @@
 ### 2023-11-28 (TUE)
         CISSP:
 
-### 2023-11-27 (MON)
-        Planned Break
+### 2023-11-27 (MON) - Planned Break
 
-### 2023-11-26 (SUN)
-        Planned Break
+### 2023-11-26 (SUN) - Planned Break
 
-### 2023-11-25 (SAT)
-        Planned Break
+### 2023-11-25 (SAT) - Planned Break
 
-### 2023-11-24 (FRI)
-        Planned Break
+### 2023-11-24 (FRI) - Planned Break
 
-### 2023-11-23 (THU)
-        Planned Break
+### 2023-11-23 (THU) - Planned Break
 
-### 2023-11-22 (WED)
-        Planned Break
+### 2023-11-22 (WED) - Planned Break
 
 ### 2023-11-21 (TUE)
         CISSP: Destination CISSP - 
@@ -174,19 +168,21 @@
         CISSP: Destination CISSP - 
 
 ### 2023-11-19 (SUN)
-        CISSP:  Destination CISSP - 
+        CISSP:  Destination CISSP - -->
 
 ### 2023-11-18 (SAT)
-        CISSP:  Destination CISSP - 
+        CISSP:  Destination CISSP - 1.5.6
+                Reviewed 1.1-1.3.1, 1.5.1-1.5.5
+        
+                
 
 ### 2023-11-17 (FRI)
-        CISSP:  Destination CISSP - 
+        CISSP:  Destination CISSP - 1.3.4, 1.4.1, 1.5.1 - 1.5.5
 
 ### 2023-11-16 (THU)
-        CISSP:  Destination CISSP - 
-                https://www.youtube.com/watch?v=_nyZhYnCNLA watched -> 00:39:00
+        CISSP:  Destination CISSP - 1.3.3
 
--->
+                https://www.youtube.com/watch?v=_nyZhYnCNLA watched -> 00:39:00
 
 ### 2023-11-15 (WED)
         CISSP:  Destination CISSP - 1.3.2
