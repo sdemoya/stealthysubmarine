@@ -165,16 +165,14 @@
         CISSP: Destination CISSP - 
 
 ### 2023-11-20 (MON)
-        CISSP: Destination CISSP - 
+        CISSP: Destination CISSP - -->
 
 ### 2023-11-19 (SUN)
-        CISSP:  Destination CISSP - -->
+        CISSP:  Destination CISSP - Netwroking podcast
 
 ### 2023-11-18 (SAT)
         CISSP:  Destination CISSP - 1.5.6
                 Reviewed 1.1-1.3.1, 1.5.1-1.5.5
-        
-                
 
 ### 2023-11-17 (FRI)
         CISSP:  Destination CISSP - 1.3.4, 1.4.1, 1.5.1 - 1.5.5
