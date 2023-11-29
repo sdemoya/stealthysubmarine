@@ -141,13 +141,13 @@
         CISSP:
 
 ### 2023-11-30 (THU)
-        CISSP:
+        CISSP:  -->
 
 ### 2023-11-29 (WED)
-        CISSP:
+        CISSP:  ICS (Inside Cloud & Security) Video - Domain 1 start to 0:33:40, while making flashcards.
+        *Listened to some podcasts, audiobooks on trip, but starting fresh now that I'm back. Anticipating travel and disruptions in Dec*
 
-### 2023-11-28 (TUE)
-        CISSP:
+### 2023-11-28 (TUE) - Planned Break
 
 ### 2023-11-27 (MON) - Planned Break
 
@@ -161,11 +161,9 @@
 
 ### 2023-11-22 (WED) - Planned Break
 
-### 2023-11-21 (TUE)
-        CISSP: Destination CISSP - 
+### 2023-11-21 (TUE) - Planned Break
 
-### 2023-11-20 (MON)
-        CISSP: Destination CISSP - -->
+### 2023-11-20 (MON) - Planned Break
 
 ### 2023-11-19 (SUN)
         CISSP:  Destination CISSP - Netwroking podcast
