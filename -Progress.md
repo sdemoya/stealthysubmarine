@@ -138,13 +138,14 @@
         CISSP:
 
 ### 2023-12-01 (FRI)
-        CISSP:
+        CISSP:-->
 
 ### 2023-11-30 (THU)
-        CISSP:  -->
+        CISSP:  ICS Exam Cram - NIST 800-37 (-> 00:39:00)
 
 ### 2023-11-29 (WED)
         CISSP:  ICS (Inside Cloud & Security) Video - Domain 1 start to 0:33:40, while making flashcards.
+
         *Listened to some podcasts, audiobooks on trip, but starting fresh now that I'm back. Anticipating travel and disruptions in Dec*
 
 ### 2023-11-28 (TUE) - Planned Break
