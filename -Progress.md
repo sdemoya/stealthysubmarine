@@ -132,10 +132,12 @@
         CISSP:
 
 ### 2023-12-03 (SUN)
-        CISSP:
+        CISSP: --->
 
 ### 2023-12-02 (SAT)
-        CISSP: --->
+        CISSP:  ICS Exam Cram (-> 01:06:00)
+                Destination CISSP - 1.5.5-1.5.7, 1.7
+
 
 ### 2023-12-01 (FRI)
         CISSP:  ICS Exam Cram (-> 00:56:00)
@@ -167,7 +169,7 @@
 ### 2023-11-20 (MON) - Planned Break
 
 ### 2023-11-19 (SUN)
-        CISSP:  Destination CISSP - Netwroking podcast
+        CISSP:  Netwroking podcast
 
 ### 2023-11-18 (SAT)
         CISSP:  Destination CISSP - 1.5.6
