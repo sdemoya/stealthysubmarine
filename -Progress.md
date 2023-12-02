@@ -135,10 +135,10 @@
         CISSP:
 
 ### 2023-12-02 (SAT)
-        CISSP:
+        CISSP: --->
 
 ### 2023-12-01 (FRI)
-        CISSP:-->
+        CISSP:  ICS Exam Cram (-> 00:56:00)
 
 ### 2023-11-30 (THU)
         CISSP:  ICS Exam Cram - NIST 800-37 (-> 00:39:00)
