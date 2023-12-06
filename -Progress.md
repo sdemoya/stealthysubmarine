@@ -121,11 +121,11 @@
 
 ### 2023-12-07 (THU)
         CISSP: 
-
-### 2023-12-06 (WED)
-        CISSP:  ICS Exam Cram (-> 01:14:00)
-                Went back to start of laws/regulation to take notes/review
 --->
+### 2023-12-06 (WED)
+        CISSP:  ICS Exam Cram (-> 01:20:46 with notes
+                               -> )
+
 ### 2023-12-05 (TUE)
         CISSP:  Rsched/read more about GDPR and key regulatory points
 
