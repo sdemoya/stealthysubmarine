@@ -120,22 +120,22 @@
         CISSP:
 
 ### 2023-12-07 (THU)
-        CISSP:
+        CISSP: 
 
 ### 2023-12-06 (WED)
-        CISSP:
-
+        CISSP:  ICS Exam Cram (-> 01:14:00)
+                Went back to start of laws/regulation to take notes/review
+--->
 ### 2023-12-05 (TUE)
-        CISSP:
+        CISSP:  Rsched/read more about GDPR and key regulatory points
 
-### 2023-12-04 (MON)
-        CISSP:
+### 2023-12-04 (MON) :/
 
 ### 2023-12-03 (SUN)
-        CISSP: --->
+        CISSP:  Destination CISSP -  Listened to cryptogorahpy video 1
 
 ### 2023-12-02 (SAT)
-        CISSP:  ICS Exam Cram (-> 01:06:00)
+        CISSP:  ICS Exam Cram (-> 01:14:00)
                 Destination CISSP - 1.5.5-1.5.7, 1.7
 
 
