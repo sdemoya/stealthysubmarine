@@ -111,20 +111,18 @@
         CISSP:
 
 ### 2023-12-10 (SUN)
-        CISSP:
+        CISSP:  Destination CISSP: --->
 
 ### 2023-12-09 (SAT)
-        CISSP:
+        CISSP:  Destination CISSP - started reviewing sections already covered 
+                Reviewed reasoning behind questions I got worng.
 
-### 2023-12-08 (FRI)
-        CISSP:
+### 2023-12-08 (FRI) :o
+### 2023-12-07 (THU) :/
 
-### 2023-12-07 (THU)
-        CISSP: 
---->
 ### 2023-12-06 (WED)
-        CISSP:  ICS Exam Cram (-> 01:20:46 with notes
-                               -> )
+        CISSP:  ICS Exam Cram (-> 01:24:15 (End of Domain 1))
+                Wiley OSG Quiz (10 questions - 70%)
 
 ### 2023-12-05 (TUE)
         CISSP:  Rsched/read more about GDPR and key regulatory points
@@ -137,7 +135,6 @@
 ### 2023-12-02 (SAT)
         CISSP:  ICS Exam Cram (-> 01:14:00)
                 Destination CISSP - 1.5.5-1.5.7, 1.7
-
 
 ### 2023-12-01 (FRI)
         CISSP:  ICS Exam Cram (-> 00:56:00)
