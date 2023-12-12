@@ -106,16 +106,15 @@
 
 ### 2023-12-12 (TUE)
         CISSP:
-
+--->
 ### 2023-12-11 (MON)
-        CISSP:
+        CISSP:  Destination CISSP: Re-read/took notes on 1.3.3-1.5.2
 
 ### 2023-12-10 (SUN)
-        CISSP:  Destination CISSP: --->
+        CISSP:  Destination CISSP: Re-read/took notes on 1.1-1.3.2
 
 ### 2023-12-09 (SAT)
-        CISSP:  Destination CISSP - started reviewing sections already covered 
-                Reviewed reasoning behind questions I got worng.
+        CISSP:  Reviewed reasoning behind questions I got worng.
 
 ### 2023-12-08 (FRI) :o
 ### 2023-12-07 (THU) :/
