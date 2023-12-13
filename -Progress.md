@@ -102,11 +102,11 @@
         CISSP:
 
 ### 2023-12-13 (WED)
-        CISSP:
+        CISSP: --->
 
 ### 2023-12-12 (TUE)
-        CISSP:
---->
+        CISSP:  Destination CISSP: Re-read/took notes on 1.5.3-1.5.4
+
 ### 2023-12-11 (MON)
         CISSP:  Destination CISSP: Re-read/took notes on 1.3.3-1.5.2
 
